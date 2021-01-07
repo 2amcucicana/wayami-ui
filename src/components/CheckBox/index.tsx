@@ -22,7 +22,7 @@ export interface IBox {
 }
 
 export const CheckBox = forwardRef(
-  ({ label, name, value, color = '#7159c1', ...props }: Props, ref) => {
+  ({ label, name, value, color = '#7c2506', ...props }: Props, ref) => {
     const { readOnly, onChange } = props;
 
     return (
