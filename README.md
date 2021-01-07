@@ -1,5 +1,5 @@
 <h1 align="center">
-Code Challenge - React UI Kit Library
+Wayami-React UI Kit Library
 </h1>
 
 <p align="center">Simple UI Kit Library for React.js with Storybook Demo.</p>
@@ -18,13 +18,13 @@ Code Challenge - React UI Kit Library
 
 ## Participants
 
-| [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz) |
+| [<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/eadafonso) |
 | :------------------------------------------------------------------------------------------------------------------------: |
 
 
 | [Guilherme Rodz](https://github.com/guilhermerodz)
 
-## Components
+<!-- ## Components
 
 - [x] Button
 - [x] CheckBox
@@ -63,4 +63,4 @@ Code Challenge - React UI Kit Library
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests. -->
