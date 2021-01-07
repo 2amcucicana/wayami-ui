@@ -15,7 +15,7 @@ export interface Props {
 }
 
 const RadioWrapper = forwardRef(
-  ({ label, name, value, color = '#7159c1', ...props }: Props, ref) => {
+  ({ label, name, value, color = '#862a23', ...props }: Props, ref) => {
     const { readOnly, onChange } = props;
 
     return (

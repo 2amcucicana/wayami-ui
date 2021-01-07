@@ -1,6 +1,6 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
-import { Props } from './index';
+import { Props } from "./index";
 
 export const Label = styled.label`
   display: flex;
@@ -15,7 +15,7 @@ export const Label = styled.label`
   user-select: none;
 
   color: #fff;
-  font-size: 16px;
+  font-size: 15px;
 
   &:hover span,
   input:checked ~ span {
@@ -24,7 +24,7 @@ export const Label = styled.label`
 `;
 
 export const Radio = styled.input.attrs({
-  type: 'radio',
+  type: "radio",
 })`
   cursor: pointer;
   position: absolute;
@@ -41,8 +41,8 @@ export const Mark = styled.span`
   position: absolute;
   top: 0;
   left: 0;
-  height: 22px;
-  width: 22px;
+  height: 20px;
+  width: 20px;
   background-color: rgba(255, 255, 255, 0.35);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 50%;
@@ -50,7 +50,7 @@ export const Mark = styled.span`
   transition: 180ms ease-in-out;
 
   &:after {
-    content: '';
+    content: "";
     position: absolute;
     display: none;
 
@@ -61,7 +61,7 @@ export const Mark = styled.span`
     height: 8px;
 
     border: solid white;
-    border-width: 0 3px 3px 0;
+    border-width: 0 2px 2px 0;
 
     transform: rotate(45deg);
   }

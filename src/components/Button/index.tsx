@@ -18,7 +18,7 @@ const ButtonWrapper: React.FC<Props> = ({
   heigth = 40,
   borderRadius = 4,
   children,
-  backgroundColor = '#7159c1',
+  backgroundColor = '#862a23',
   color = '#fff',
   outlined = false,
   ...props

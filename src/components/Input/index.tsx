@@ -19,7 +19,7 @@ export interface ILabel {
 export const Input: React.FC<Props> = ({
   name,
   type = 'text',
-  color = '#7159c1',
+  color = '#862a23',
   value,
   setValue,
   placeholder,
